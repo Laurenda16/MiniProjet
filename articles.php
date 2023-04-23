@@ -100,7 +100,7 @@
 
 
     <?php
-
+$articles = true;
     include_once("header.php");
 
 

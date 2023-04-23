@@ -8,3 +8,6 @@ Html/ php(CRUD)/Boostrap/jquery/Ajax
 
 Base de donnees(gestioncommandes)
 les tables: Client, Commande, article, ligne_commande
+
+//////INTEGRER LA DATATABLE JQUERY
+outils tres flexibles 
