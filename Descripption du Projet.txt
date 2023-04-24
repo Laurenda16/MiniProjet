@@ -11,3 +11,5 @@ les tables: Client, Commande, article, ligne_commande
 
 //////INTEGRER LA DATATABLE JQUERY
 outils tres flexibles 
+
+Codqge du BackEnd
